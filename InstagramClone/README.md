@@ -2,14 +2,14 @@
 
 ## Bootstrap ile Instagram Clone
 
-![instagram](https://github.com/Kodluyoruz/taskforce/raw/main/bootstrap/odev2/assets/instagram.gif)
+![instagram](https://github.com/Kodluyoruz/taskforce/raw/main/KODLUYORUZFRONTEND/Bootstrap/InstagramClone/assets/instagram.gif)
 
 Yukarıda görmüş olduğunuz şahane yapıyı Kodluyoruz mühendisleri üstün dil CSS ile 6 yıl boyunca Ağrı Dağı eteklerinde geliştirdiler. Büyük acılar, büyük zorluklar sonrası bu muhteşem yapıyı oluşturdular desek tabii ki doğru olmaz.
 Bootstrap ile sizin için böyle bir yapı geliştirdik ve geliştirme sırası şimdi sizde. Bütün vicdansızlığımızı kullanarak yukarıdaki yapıyı aşağıdakine dönüştürdük ve gerekli düzenlemeleri yaparak bu yapı üzerinde çalışıp bu clone'u tekrar yazmanızı istiyoruz.
 
 ![brokeninstagram](https://github.com/Kodluyoruz/taskforce/raw/main/bootstrap/odev2/assets/instagrambroken.gif)
 
-**Hazırlamış olduğumuz Instagram clone'una [buradan](https://github.com/Kodluyoruz/taskforce/tree/main/bootstrap/odev2/instagramclone) ulaşabilirsiniz.**
+**Hazırlamış olduğumuz Instagram clone'una [buradan](https://github.com/Kodluyoruz/taskforce/tree/main/KODLUYORUZFRONTEND/Bootstrap/InstagramClone) ulaşabilirsiniz.**
 
 ### Sizden Beklediklerimiz
 - Navbarı yukarı **sabitleyip** sayfayı aşağı kaydırdığınızda hala yukarıda durmasını sağlayın. İçerik ile birleşmemesi için body'e `padding` veriniz.
