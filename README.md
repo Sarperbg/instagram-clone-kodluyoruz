@@ -2,12 +2,12 @@
 
 ## Bootstrap ile Instagram Clone
 
-![instagram](https://github.com/Kodluyoruz/taskforce/raw/main/bootstrap/odev2/assets/instagram.gif)
+![instagram](https://github.com/Kodluyoruz/taskforce/raw/main/bootstrap/odev2/figures/instagram.gif)
 
 Yukarıda görmüş olduğunuz şahane yapıyı Kodluyoruz mühendisleri üstün dil CSS ile 6 yıl boyunca Ağrı Dağı eteklerinde geliştirdiler. Büyük acılar, büyük zorluklar sonrası bu muhteşem yapıyı oluşturdular desek tabii ki doğru olmaz.
 Bootstrap ile sizin için böyle bir yapı geliştirdik ve geliştirme sırası şimdi sizde. Bütün vicdansızlığımızı kullanarak yukarıdaki yapıyı aşağıdakine dönüştürdük ve gerekli düzenlemeleri yaparak bu yapı üzerinde çalışıp bu clone'u tekrar yazmanızı istiyoruz.
 
-![brokeninstagram](https://github.com/Kodluyoruz/taskforce/raw/main/bootstrap/odev2/assets/instagrambroken.gif)
+![brokeninstagram](https://github.com/Kodluyoruz/taskforce/raw/main/bootstrap/odev2/figures/instagrambroken.gif)
 
 **Hazırlamış olduğumuz Instagram clone'una [buradan](https://github.com/Kodluyoruz/taskforce/tree/main/bootstrap/odev2/instagramclone) ulaşabilirsiniz.**
 
@@ -41,6 +41,6 @@ Burada belirtmediğimiz ama gözünüze takılan bir yer olursa orayı da düzel
 Buradaki ana amacımız Bootstrap elementlerini kullanarak ve özellikle deneyip yanılarak doğru yöntemi bulmanız. Mükemmel olmasına gerek yok.
 Unutmayın efektif olması mükemmel olmasından daha önemlidir.
 
-![arog](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/bootstrap/odev2/assets/arog.jpg)
+![arog](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/bootstrap/odev2/figures/arog.jpg)
 
 Hepinize başarılar, kolay gelsin!
